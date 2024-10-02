@@ -1,4 +1,4 @@
-# University Data Summarization Tool
+# University Data Summarizer
 
 This Python-based command-line tool fetches and summarizes open-source online university metadata from http://universities.hipolabs.com/search. It provides various ways to query and display university information globally, by country, by province, and through a search function.
 
@@ -18,8 +18,8 @@ This Python-based command-line tool fetches and summarizes open-source online un
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/university-data-tool.git
-   cd university-data-tool
+   git clone https://github.com/avivilloz/university-data-summarizer.git
+   cd university-data-summarizer
    ```
 
 2. Create a virtual environment (optional but recommended):
